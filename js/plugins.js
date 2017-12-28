@@ -27,7 +27,7 @@ var $plugins =
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"DreamX_BattleSE","status":true,"description":"v1.1 Disable or change battle start sound","parameters":{}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
-{"name":"GameJolt","status":true,"description":"Use the GameJolt API in your RPG Maker MV game.","parameters":{"Game ID":"304631","Private Key":"84d7303d1023193fab9a5878b8b8b24d","Login on start":"true","Use login dialog if available":"true","Add button to main menu":"false","Show notifications":"true","Trophy notification text":"Trophy Achieved!"}},
+{"name":"GameJolt","status":true,"description":"Use the GameJolt API in your RPG Maker MV game.","parameters":{"Game ID":"304631","Private Key":"84d7303d1023193fab9a5878b8b8b24d","Login on start":"false","Use login dialog if available":"true","Add button to main menu":"false","Show notifications":"true","Trophy notification text":"Trophy Achieved!"}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"autolife","status":true,"description":"Special State: Autolife v1.1.0","parameters":{"Autolife Animation ID":"49"}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
