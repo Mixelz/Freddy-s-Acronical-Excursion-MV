@@ -48,6 +48,6 @@ null,
 {"id":46,"expanded":true,"name":"East Hall Corner","order":31,"parentId":45,"scrollX":832,"scrollY":640},
 {"id":47,"expanded":false,"name":"Parts Room","order":23,"parentId":40,"scrollX":832,"scrollY":640},
 {"id":48,"expanded":false,"name":"Kitchen","order":24,"parentId":40,"scrollX":832,"scrollY":640},
-{"id":49,"expanded":false,"name":"Pirate Cove","order":25,"parentId":40,"scrollX":0,"scrollY":0},
+{"id":49,"expanded":false,"name":"Pirate Cove","order":25,"parentId":40,"scrollX":819,"scrollY":466},
 {"id":50,"expanded":false,"name":"Office","order":32,"parentId":17,"scrollX":832,"scrollY":640}
 ]
