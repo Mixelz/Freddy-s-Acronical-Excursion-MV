@@ -17,7 +17,15 @@ null,
 {"id":15,"expanded":true,"name":"Show Stage","order":9,"parentId":14,"scrollX":832,"scrollY":640},
 {"id":16,"expanded":true,"name":"Time Travel","order":19,"parentId":9,"scrollX":528.5,"scrollY":313.5},
 {"id":17,"expanded":true,"name":"Time Travel","order":21,"parentId":10,"scrollX":832,"scrollY":640},
+<<<<<<< HEAD
 {"id":18,"expanded":true,"name":"Time Travel","order":34,"parentId":11,"scrollX":817,"scrollY":466},
+=======
+<<<<<<< HEAD
+{"id":18,"expanded":true,"name":"Time Travel","order":34,"parentId":11,"scrollX":528.5,"scrollY":323.5},
+=======
+{"id":18,"expanded":true,"name":"Time Travel","order":34,"parentId":11,"scrollX":817,"scrollY":466},
+>>>>>>> 40ec5da1d746b564fd502b8bf7574e8cb3f03423
+>>>>>>> parent of 1032361... Revert "Merge branch 'master' of https://github.com/Tombsday/Freddy-s-Acronical-Excursion-MV"
 {"id":19,"expanded":true,"name":"Time Travel","order":48,"parentId":12,"scrollX":540.6666666666666,"scrollY":313.3333333333333},
 {"id":20,"expanded":true,"name":"Center Hall","order":10,"parentId":15,"scrollX":832,"scrollY":640},
 {"id":21,"expanded":false,"name":"Party Room","order":11,"parentId":20,"scrollX":817,"scrollY":466},
