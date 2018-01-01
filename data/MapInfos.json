@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Test","order":51,"parentId":0,"scrollX":982.8,"scrollY":559.1999999999999},
+{"id":1,"expanded":false,"name":"Test","order":52,"parentId":0,"scrollX":982.8,"scrollY":559.1999999999999},
 {"id":2,"expanded":false,"name":"Frooby's Purgatory","order":5,"parentId":4,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Disclaimer / Warning","order":1,"parentId":0,"scrollX":819,"scrollY":466},
 {"id":4,"expanded":true,"name":"New Game","order":4,"parentId":0,"scrollX":419.5,"scrollY":304.5},
-{"id":5,"expanded":false,"name":"Era Selection","order":7,"parentId":4,"scrollX":817,"scrollY":466},
+{"id":5,"expanded":true,"name":"Era Selection","order":7,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"Title","order":2,"parentId":3,"scrollX":439,"scrollY":311.5},
 {"id":7,"expanded":false,"name":"Difficulty Select","order":3,"parentId":6,"scrollX":568.1999999999999,"scrollY":322.8},
 {"id":8,"expanded":false,"name":"1972 [Tombsday]","order":8,"parentId":5,"scrollX":540.6666666666666,"scrollY":310.6666666666667},
-{"id":9,"expanded":false,"name":"1987 [(Mai)]","order":19,"parentId":5,"scrollX":528.5,"scrollY":310.5},
-{"id":10,"expanded":false,"name":"1993 [Mixelz]","order":21,"parentId":5,"scrollX":540.6666666666666,"scrollY":310.6666666666667},
+{"id":9,"expanded":false,"name":"1987 [(Mai)]","order":19,"parentId":5,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":10,"expanded":false,"name":"1993 [Mixelz]","order":21,"parentId":5,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
 {"id":11,"expanded":false,"name":"202X [Ashton101]","order":34,"parentId":5,"scrollX":528.5,"scrollY":300.5},
 {"id":12,"expanded":false,"name":"20XX [Unassigned]","order":48,"parentId":5,"scrollX":540.6666666666666,"scrollY":310.6666666666667},
 {"id":13,"expanded":false,"name":"Grand Finale [UnReyvel]","order":50,"parentId":5,"scrollX":0,"scrollY":0},
@@ -50,5 +50,6 @@ null,
 {"id":48,"expanded":false,"name":"Kitchen","order":25,"parentId":40,"scrollX":528.5,"scrollY":323.5},
 {"id":49,"expanded":false,"name":"Pirate Cove","order":26,"parentId":40,"scrollX":528.5,"scrollY":300.5},
 {"id":50,"expanded":false,"name":"Office","order":33,"parentId":17,"scrollX":832,"scrollY":640},
-{"id":51,"expanded":false,"name":"Frooby's Purgatory","order":6,"parentId":4,"scrollX":819,"scrollY":461}
+{"id":51,"expanded":false,"name":"Frooby's Purgatory (???)","order":6,"parentId":4,"scrollX":1228.5,"scrollY":691.5},
+{"id":52,"expanded":false,"name":"Hotel Lobby","order":51,"parentId":5,"scrollX":1216.5,"scrollY":691.5}
 ]
