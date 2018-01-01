@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Test","order":52,"parentId":0,"scrollX":982.8,"scrollY":559.1999999999999},
+{"id":1,"expanded":false,"name":"Test","order":53,"parentId":0,"scrollX":982.8,"scrollY":559.1999999999999},
 {"id":2,"expanded":false,"name":"Frooby's Purgatory","order":5,"parentId":4,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Disclaimer / Warning","order":1,"parentId":0,"scrollX":819,"scrollY":466},
 {"id":4,"expanded":true,"name":"New Game","order":4,"parentId":0,"scrollX":419.5,"scrollY":304.5},
@@ -50,6 +50,7 @@ null,
 {"id":48,"expanded":false,"name":"Kitchen","order":25,"parentId":40,"scrollX":528.5,"scrollY":323.5},
 {"id":49,"expanded":false,"name":"Pirate Cove","order":26,"parentId":40,"scrollX":528.5,"scrollY":300.5},
 {"id":50,"expanded":false,"name":"Office","order":33,"parentId":17,"scrollX":832,"scrollY":640},
-{"id":51,"expanded":false,"name":"Frooby's Purgatory (???)","order":6,"parentId":4,"scrollX":1228.5,"scrollY":691.5},
-{"id":52,"expanded":false,"name":"Hotel Lobby","order":51,"parentId":5,"scrollX":1216.5,"scrollY":691.5}
+{"id":51,"expanded":false,"name":"Frooby's Purgatory (???)","order":6,"parentId":4,"scrollX":609,"scrollY":421.5},
+{"id":52,"expanded":true,"name":"Hotel Lobby","order":51,"parentId":5,"scrollX":601,"scrollY":421.5},
+{"id":53,"expanded":false,"name":"GO FISH","order":52,"parentId":52,"scrollX":609,"scrollY":421.5}
 ]
