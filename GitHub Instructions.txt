@@ -23,4 +23,4 @@ there would be a solution
 when you're both about to commit(after working on the shit)
 one person copies over their file and sends it over to the other person
 and the first person discards the change on their end
-and then the other person commits and syncs and whatever
+and then the other person commits and syncs and whatever 
