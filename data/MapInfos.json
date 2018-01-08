@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":false,"name":"Test","order":54,"parentId":0,"scrollX":982.8,"scrollY":559.1999999999999},
 {"id":2,"expanded":false,"name":"Frooby's Purgatory","order":5,"parentId":4,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Disclaimer / Warning","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":true,"name":"New Game","order":4,"parentId":0,"scrollX":419.5,"scrollY":304.5},
+{"id":4,"expanded":true,"name":"New Game","order":4,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":true,"name":"Era Selection","order":7,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"Title","order":2,"parentId":3,"scrollX":439,"scrollY":311.5},
 {"id":7,"expanded":false,"name":"Difficulty Select","order":3,"parentId":6,"scrollX":568.1999999999999,"scrollY":322.8},
@@ -53,5 +53,5 @@ null,
 {"id":51,"expanded":false,"name":"Frooby's Purgatory (???)","order":6,"parentId":4,"scrollX":459,"scrollY":312.5},
 {"id":52,"expanded":true,"name":"Hotel Lobby","order":52,"parentId":5,"scrollX":811,"scrollY":461},
 {"id":53,"expanded":false,"name":"GO FISH","order":53,"parentId":52,"scrollX":819,"scrollY":461},
-{"id":54,"expanded":false,"name":"Bathrooms Broke","order":28,"parentId":41,"scrollX":511.2,"scrollY":375}
+{"id":54,"expanded":false,"name":"Bathrooms Broke","order":28,"parentId":41,"scrollX":832,"scrollY":640}
 ]
