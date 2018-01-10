@@ -57,5 +57,6 @@ var $plugins =
 {"name":"regainbattletint","status":false,"description":"","parameters":{}},
 {"name":"stopbattletint","status":false,"description":"","parameters":{}},
 {"name":"musicbug","status":true,"description":"A cache for WebAudio which keeps preloaded objects in memory while they are still recent or in use. Combined with TDDP Preload Manager, this should hopefully reduce BGM play lag to a minimum.","parameters":{}},
-{"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}}
+{"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
+{"name":"multi_timers_(mv)","status":true,"description":"Allows more than one timer running at once, with custom commands","parameters":{}}
 ];
