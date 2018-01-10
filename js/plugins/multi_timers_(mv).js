@@ -64,10 +64,9 @@
       case 'ADDTIMER':
         args = this.subst(args);
         key = args.shift();
-		good_time = args.shift();
-		// Could have a game object here so we need to evaluate it
-		good_time = eval(good_time);
-	    seconds = parseInt(good_time);
+		uneval_time = args.shift();
+		uneval_time = eval(uneval_time);
+	    seconds = parseInt(uneval_time);
         command = args.join(' ');
         $gameTimer.addTimer(key, seconds, command);
         break;

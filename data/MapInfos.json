@@ -53,6 +53,6 @@ null,
 {"id":51,"expanded":false,"name":"Frooby's Purgatory (???)","order":6,"parentId":4,"scrollX":459,"scrollY":312.5},
 {"id":52,"expanded":true,"name":"Hotel Lobby","order":53,"parentId":5,"scrollX":811,"scrollY":461},
 {"id":53,"expanded":false,"name":"GO FISH","order":54,"parentId":52,"scrollX":819,"scrollY":461},
-{"id":54,"expanded":false,"name":"Bathrooms Broke","order":28,"parentId":41,"scrollX":819,"scrollY":461},
+{"id":54,"expanded":false,"name":"Bathrooms Broke","order":28,"parentId":41,"scrollX":609,"scrollY":421.5},
 {"id":55,"expanded":false,"name":"I AM GOLDEN FREDDY AND I AM DRIVING IN MY CAR","order":49,"parentId":18,"scrollX":528.5,"scrollY":300.5}
 ]
