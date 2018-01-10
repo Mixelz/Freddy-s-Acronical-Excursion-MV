@@ -21,6 +21,7 @@ var $plugins =
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"MBS_SmoothScroll","status":true,"description":"Makes the map scroll smooth so it looks nicer to the eye.\n\n\t<MBS SmoothScroll>","parameters":{"Scroll Margin":"48","Scroll Speed":"2"}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
+{"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"DoubleX RMMV Permanent States v102c","status":true,"description":"Lets you sets some states to be kept/restored in some set cases","parameters":{}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"TinyGetInfoWnd","status":true,"description":"Display tiny window of gaining/losing items information on map","parameters":{"Event Command Switch":"1","Y position type":"1","textGainItem":"Obtained %1","textLoseItem":"Lost %1","SE filename":"Item3","SE volume":"90","SE pitch":"100"}},
