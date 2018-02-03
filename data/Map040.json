@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 "autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
+=======
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[{"regionSet":[],"troopId":258,"weight":10},{"regionSet":[],"troopId":259,"weight":6},{"regionSet":[],"troopId":260,"weight":4}],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
+>>>>>>> parent of 5d4048b... Work on Enemies + Misc
 =======
 "autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[{"regionSet":[],"troopId":258,"weight":10},{"regionSet":[],"troopId":259,"weight":6},{"regionSet":[],"troopId":260,"weight":4}],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
@@ -27,6 +31,9 @@ null,
 {"id":15,"name":"EV015","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Frooby & Friends","direction":6,"pattern":1,"characterIndex":4},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Which key"]},{"code":401,"indent":0,"parameters":["This is for debugging purposes only."]},{"code":102,"indent":0,"parameters":[["Kitchen","Fridge","Cooler"],-2,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Kitchen"]},{"code":126,"indent":1,"parameters":[79,0,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Fridge"]},{"code":126,"indent":1,"parameters":[80,0,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Cooler"]},{"code":126,"indent":1,"parameters":[81,0,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":11,"y":7},
 null,
 null
+<<<<<<< HEAD
+>>>>>>> parent of 5d4048b... Work on Enemies + Misc
+=======
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
 ]
 }
