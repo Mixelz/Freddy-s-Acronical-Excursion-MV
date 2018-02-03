@@ -18,6 +18,7 @@ null,
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"id":15,"expanded":true,"name":"Show Stage","order":10,"parentId":14,"scrollX":659,"scrollY":371},
 =======
 {"id":15,"expanded":true,"name":"Show Stage","order":10,"parentId":14,"scrollX":819,"scrollY":461},
@@ -31,6 +32,9 @@ null,
 =======
 {"id":15,"expanded":true,"name":"Show Stage","order":10,"parentId":14,"scrollX":832,"scrollY":640},
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
+=======
+{"id":15,"expanded":true,"name":"Show Stage","order":10,"parentId":14,"scrollX":832,"scrollY":640},
+>>>>>>> parent of a3d468a... Skills
 {"id":16,"expanded":true,"name":"Time Travel","order":20,"parentId":9,"scrollX":528.5,"scrollY":313.5},
 {"id":17,"expanded":true,"name":"Time Travel","order":22,"parentId":10,"scrollX":659,"scrollY":371},
 {"id":18,"expanded":true,"name":"Time Travel","order":36,"parentId":11,"scrollX":528.5,"scrollY":323.5},
