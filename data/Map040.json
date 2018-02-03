@@ -1,7 +1,11 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
+=======
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[{"regionSet":[],"troopId":258,"weight":10},{"regionSet":[],"troopId":259,"weight":6},{"regionSet":[],"troopId":260,"weight":4}],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
+>>>>>>> parent of 5d4048b... Work on Enemies + Misc
 =======
 "autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[{"regionSet":[],"troopId":258,"weight":10},{"regionSet":[],"troopId":259,"weight":6},{"regionSet":[],"troopId":260,"weight":4}],"encounterStep":30,"height":13,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":17,
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
@@ -32,6 +36,9 @@ null,
 null,
 null
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 5d4048b... Work on Enemies + Misc
+=======
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
 =======
 >>>>>>> parent of 5d4048b... Work on Enemies + Misc
