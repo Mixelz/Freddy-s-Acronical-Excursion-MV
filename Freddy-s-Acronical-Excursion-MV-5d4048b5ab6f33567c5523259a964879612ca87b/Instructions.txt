@@ -1,0 +1,17 @@
+Each Era has their own set of shit, such as common events, skills, etc.
+
+You must keep your shit in your section, or things'll get fucked when it's time to combine.
+
+For voice lines, make sure it's [YOUR ERA] Person - voice line. If a line is used in a different era, rename
+[YOUR ERA] into [FAE] so that we know it's not only used for your era.
+
+You have resources to get started with your era. If you have a problem, ask TOMASU (TOMBSDAY) so that he can help.
+
+Make sure that at the completion of your era, you add a completion star with a switch "ERACompletion" in your
+era section for switches. Same with 100%ing the era, "ERA100%" It should mostly be at the end of all your
+switches.
+
+You also got variables too, so don't worry about that either.
+
+If you have problems with an actor having the wrong scream animation, just
+make your own scream skill with the correct animation, and put <Replace Attack: x> in the notes of your actors.
