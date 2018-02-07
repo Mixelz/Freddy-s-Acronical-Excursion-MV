@@ -51,6 +51,7 @@ var $plugins =
 {"name":"HIME_EquipSlotsCore","status":true,"description":"v1.5 - Provides you with tools to set up custom equip slots\r\nfor each actor individually.","parameters":{}},
 {"name":"HIME_EnemyReinforcements","status":true,"description":"Allows you to summon more enemies into the current battle\r\nusing event commands.","parameters":{}},
 {"name":"HIME_MultipleInventories","status":true,"description":"Provides an easy way to manage multiple inventories if you\r\nneed to switch between them or merge them during the game.","parameters":{"Default Inventory Name":"default"}},
+{"name":"HIME_RandomRepeats","status":true,"description":"Allows you to have skills or items repeat a random number\r\nof times","parameters":{}},
 {"name":"--------------------","status":false,"description":"------------------------------------------------------------","parameters":{}},
 {"name":"regainbattletint","status":false,"description":"","parameters":{}},
 {"name":"stopbattletint","status":false,"description":"","parameters":{}},
